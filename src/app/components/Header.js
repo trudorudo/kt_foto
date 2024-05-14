@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 
@@ -14,7 +14,6 @@ const Header = () => {
       const [open, setOpen] = useState(false);
     let navigate = useNavigate();
 
-    const dropdownRef = useRef(null);
 
     return (
         <div className='shadow-md w-full fixed top-0 left-0 z-50'>
