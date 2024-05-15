@@ -13,6 +13,7 @@ const Header = () => {
         { name: "ABOUT", link: "/about" },
     ];
 
+    console.log(isDropdownOpen);
       const [open, setOpen] = useState(false);
     let navigate = useNavigate();
 
