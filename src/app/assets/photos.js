@@ -37,7 +37,7 @@ export const photos = [
     {
       src: require('./photos/gua10.jpg'),
       width: 4,
-      height: 4
+      height: 3
     },
     {
         src: require('./photos/gua6.jpg'),
@@ -193,7 +193,7 @@ export const photos = [
       },
       {
         src: require('./photos/asia20.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
@@ -238,12 +238,12 @@ export const photos = [
       },
       {
         src: require('./photos/asia29.jpg'),
-        width: 3,
+        width: 4,
         height: 3
       },
       {
         src: require('./photos/asia30.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
@@ -278,7 +278,7 @@ export const photos = [
       },
       {
         src: require('./photos/asia37.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
@@ -288,7 +288,7 @@ export const photos = [
       },
       {
         src: require('./photos/asia39.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
@@ -353,12 +353,12 @@ export const photos = [
       },
       {
         src: require('./photos/asia52.jpg'),
-        width: 4,
+        width: 5,
         height:3 
       },
       {
         src: require('./photos/asia53.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
@@ -368,7 +368,7 @@ export const photos = [
       },
       {
         src: require('./photos/asia55.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
@@ -383,7 +383,7 @@ export const photos = [
       },
       {
         src: require('./photos/asia58.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
@@ -398,7 +398,7 @@ export const photos = [
       },
       {
         src: require('./photos/asia61.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
@@ -458,12 +458,12 @@ export const photos = [
       },
       {
         src: require('./photos/old8.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
         src: require('./photos/gua20.jpg'),
-        width: 3,
+        width: 5,
         height: 3
       },
       {
@@ -473,17 +473,17 @@ export const photos = [
       },
       {
         src: require('./photos/old12.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
         src: require('./photos/old13.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
         src: require('./photos/old14.jpg'),
-        width: 4,
+        width:5,
         height: 3
       },
       {
@@ -578,22 +578,22 @@ export const photos = [
       },
       {
         src: require('./photos/old33.jpg'),
-        width: 3,
+        width: 4,
         height: 4
       },
       {
         src: require('./photos/old34.jpg'),
-        width: 3,
-        height: 4
+        width: 5,
+        height: 3
       },
       {
         src: require('./photos/old35.jpg'),
-        width: 4,
+        width: 5,
         height: 3
       },
       {
         src: require('./photos/old36.jpg'),
-        width: 3,
+        width: 4,
         height: 4
       },
       {
