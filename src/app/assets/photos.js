@@ -71,7 +71,7 @@ export const photos = [
       },
       {
         src: require('./photos/gua17.jpg'),
-        width: 3,
+        width: 4,
         height: 4
       },
       {

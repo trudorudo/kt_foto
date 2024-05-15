@@ -6,10 +6,10 @@ const About = () => {
     const INSTA_URL = "https://www.instagram.com/_ktfoto/";
     return (
         <div className="flex flex-col lg:flex-row bg-black mt-14 pt-28">
-            <div className="pl-16 md:pl-28">
+            <div className="pl-16 pr-16 pt-6 justify-center">
                 <img src={me} alt="me" className="h-[15rem]  rounded-full object-cover" />
             </div>
-            <div className=" h-screen text-white pl-8 pt-4 space-grotesk-style">
+            <div className=" h-screen text-white  md:text-2xl pl-8 pt-4 space-grotesk-style">
                 Hey there, it's KT. <br />
                 I love to capture moments and tell stories through my lens.<br />
                 I love faces, streets and to play with light.<br />

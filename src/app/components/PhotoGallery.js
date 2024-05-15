@@ -18,10 +18,11 @@ function PhotoGallery() {
   };
 
   return (
-    <div className="mt-14 h-screen bg-black">
-      <div className="bg-black text-white pl-10 py-3 space-grotesk-style mb-4">
+    <div className="mt-14 h-screen bg-black ">
+      <div className="bg-black text-white pl-6 md:pl-10 py-3 space-grotesk-style mb-4">
         Just an attempt to show the beauty I see...
       </div >
+      <div className="pb-16 bg-black md:px-6">
       <Gallery photos={photos} onClick={openLightbox} />
       <ModalGateway>
         {viewerIsOpen ? (
@@ -43,6 +44,7 @@ function PhotoGallery() {
           margin: 0 auto; /* Center the image horizontally */
         }
       `}</style>
+       </div>
     </div>
   );
 }
