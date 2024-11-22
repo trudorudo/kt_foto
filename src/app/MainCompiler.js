@@ -44,6 +44,10 @@ import cvs6 from "./assets/female/cvs6.jpg";
 import cvs7 from "./assets/female/cvs7.jpg";
 import cvs8 from "./assets/female/cvs8.jpg";
 import cvs9 from "./assets/female/cvs9.jpg";
+import cvs10 from "./assets/female/cvs10.jpg";
+import cvs11 from "./assets/female/cvs11.jpg";
+import cvs12 from "./assets/female/cvs12.jpg";
+import cvs13 from "./assets/female/cvs13.jpg";
 
 
 // poetry of the ordinary
@@ -95,7 +99,7 @@ const MainCompiler = () => {
                 counter="03"
                 description="'Chasing Velvet Shadows' is a tribute to the beauty, complexity, and resilience of women, seen through fleeting yet timeless moments"
                 img={cvs5}
-                img_array={[cvs1, cvs2, cvs3, cvs4, cvs5, cvs6, cvs7, cvs8, cvs9]}
+                img_array={[cvs9, cvs12, cvs10, cvs11, cvs13, cvs2, cvs3, cvs4, cvs5, cvs6, cvs7, cvs8, cvs1]}
             />
             <ProjectSection
                 id="project2"
