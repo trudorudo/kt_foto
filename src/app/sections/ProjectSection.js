@@ -103,7 +103,7 @@ const ProjectSection = ({ id, title, counter, description, img, img_array, side 
                             key={index}
                             src={img}
                             className="h-[500px] object-cover cursor-pointer"
-                            alt={`Image ${index}`}
+                            alt={`blackandwhite ${index}`}
                             onClick={() => {
                                 if (!isMobile()) {
                                     openModal(index);
@@ -142,7 +142,7 @@ const ProjectSection = ({ id, title, counter, description, img, img_array, side 
                     <div className="relative">
                         <img
                             src={img_array[selectedIndex]}
-                            alt={`Image ${selectedIndex}`}
+                            alt={`blackandwhite ${selectedIndex}`}
                             className="max-w-[90vw] max-h-[90vh] object-contain"
                         />
                     </div>
