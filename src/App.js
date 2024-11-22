@@ -8,16 +8,14 @@ import Header from "./app/components/Header"
 
 
 import './App.css';
-import Gallery from './app/components/PhotoGallery';
-import About from './app/components/About';
+import MainCompiler from './app/MainCompiler';
 
 function App() {
   return (
     <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/" element={<Gallery />}/>
-        <Route path="/about" element={<About />}/>
+        <Route path="/" element={<MainCompiler />} />
       </Routes>
     </BrowserRouter>
   )
