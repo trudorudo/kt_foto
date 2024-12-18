@@ -33,6 +33,11 @@ import sap7 from "./assets/streets_and_people/sap7.jpg";
 import sap8 from "./assets/streets_and_people/sap8.jpg";
 import sap9 from "./assets/streets_and_people/sap9.jpg";
 import sap10 from "./assets/streets_and_people/sap10.jpg";
+import sap11 from "./assets/streets_and_people/sap11.jpg";
+import sap12 from "./assets/streets_and_people/sap12.jpg";
+import sap13 from "./assets/streets_and_people/sap13.jpg";
+import sap14 from "./assets/streets_and_people/sap14.jpg";
+import sap15 from "./assets/streets_and_people/sap15.jpg";
 
 // chasing velvet shadows
 import cvs1 from "./assets/female/cvs1.jpg";
@@ -48,7 +53,7 @@ import cvs10 from "./assets/female/cvs10.jpg";
 import cvs11 from "./assets/female/cvs11.jpg";
 import cvs12 from "./assets/female/cvs12.jpg";
 import cvs13 from "./assets/female/cvs13.jpg";
-
+import cvs14 from "./assets/female/cvs14.jpg";
 
 // poetry of the ordinary
 import poto1 from "./assets/poetry_of_the_ordinary/poto1.jpg";
@@ -57,6 +62,8 @@ import poto3 from "./assets/poetry_of_the_ordinary/poto3.jpg";
 import poto4 from "./assets/poetry_of_the_ordinary/poto4.jpg";
 import poto5 from "./assets/poetry_of_the_ordinary/poto5.jpg";
 import poto6 from "./assets/poetry_of_the_ordinary/poto6.jpg";
+import poto7 from "./assets/poetry_of_the_ordinary/poto7.jpg";
+
 import AboutSection from './sections/AboutSection';
 import Footer from './sections/Footer';
 
@@ -88,7 +95,7 @@ const MainCompiler = () => {
                 counter="02"
                 description="Just streets and people and me capturing different moments of life, weaving stories through the interplay of light and shadow, and finding beauty in the ordinary"
                 img={sap9}
-                img_array={[sap1, sap2, sap3, sap4, sap5, sap6, sap7, sap8, sap9, sap10]}
+                img_array={[sap12, sap13, sap14, sap11, sap15, sap1, sap2, sap3, sap4, sap5, sap6, sap7, sap8, sap9, sap10]}
                 side
             />
             <PhotoBlock img={photo2} />
@@ -97,9 +104,9 @@ const MainCompiler = () => {
                 id={"project3"}
                 title="Chasing Velvet Shadows"
                 counter="03"
-                description="'Chasing Velvet Shadows' is a tribute to the beauty, complexity, and resilience of women, seen through fleeting yet timeless moments"
+                description=""
                 img={cvs5}
-                img_array={[cvs9, cvs12, cvs10, cvs11, cvs13, cvs2, cvs3, cvs4, cvs5, cvs6, cvs7, cvs8, cvs1]}
+                img_array={[cvs9, cvs14, , cvs10, cvs11, cvs13, cvs2, cvs12, cvs3, cvs4, cvs5, cvs6, cvs7, cvs8, cvs1]}
             />
             <ProjectSection
                 id="project2"
@@ -107,7 +114,7 @@ const MainCompiler = () => {
                 counter="04"
                 description="An ode to the beauty hidden in everyday life"
                 img={poto4}
-                img_array={[poto1, poto2, poto3, poto4, poto5, poto6]}
+                img_array={[poto1, poto2, poto3, poto4, poto5, poto7, poto6]}
                 side
             />
 
