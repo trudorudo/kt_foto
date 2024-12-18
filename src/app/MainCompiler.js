@@ -106,7 +106,7 @@ const MainCompiler = () => {
                 counter="03"
                 description=""
                 img={cvs5}
-                img_array={[cvs9, cvs14, , cvs10, cvs11, cvs13, cvs2, cvs12, cvs3, cvs4, cvs5, cvs6, cvs7, cvs8, cvs1]}
+                img_array={[cvs9, cvs14, cvs10, cvs11, cvs13, cvs2, cvs12, cvs3, cvs4, cvs5, cvs6, cvs7, cvs8, cvs1]}
             />
             <ProjectSection
                 id="project2"
