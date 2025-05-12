@@ -8,7 +8,7 @@ import photo4 from "../assets/portraits/portrait00003.jpg"
 const ProjectCard = ({ image, name, counter, onClick }) => {
     return (
         <div id="projectsSection" className=' bg-black ' onClick={onClick}>
-            <img src={image} className="object-cover md:h-[500px] h-auto max-h-[80vh] min-w-[300px]" />
+            <img src={image} alt='img' className="object-cover md:h-[500px] h-auto max-h-[80vh] min-w-[300px]" />
 
             <div className="flex text-white">
                 <div className="baijamjureelight text-lg ml-1 mt-2">
