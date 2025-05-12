@@ -1,6 +1,6 @@
 export const photos = [
   {
-    src: require('./big_photos/1.jpg'),
+    src: require('./out_of_darkness/ood9.jpg'),
     // width: 4,
     // height: 3
   },

@@ -10,11 +10,7 @@ const About = () => {
                 <img src={me} alt="me" className="h-[15rem]  rounded-full object-cover" />
             </div>
             <div className=" h-screen text-white  md:text-2xl pl-8 pt-4 space-grotesk-style">
-                Hey there, it's KT. <br />
-                I love to capture moments and tell stories through my lens.<br />
-                I love faces, streets and to play with light.<br />
-                And it's a little attempt to show the beauty I see...<br />
-                Shoot me an email if you want to collaborate or get my prints.
+                Kristina Trudorudo is a visual storyteller with a deep passion for capturing honest moments in everyday life. Drawn to faces, street scenes, and the way light shapes emotion, she uses photography as a way to share the beauty she sees in the world. Kristina is a member of Soho Photo Gallery and has exhibited her work in solo shows in New York City. Her photography invites viewers to slow down and notice the poetry in the ordinary. For collaborations or print inquiries, she welcomes you to get in touch.
                 <div className="pt-10 space-grotesk-style flex flex-col lg:flex-row">
                     <div>
                         <div>DIRECT CONTACT</div>
