@@ -8,7 +8,7 @@ import '../../../src/App.css';
 const Header = () => {
     const [isDropdownOpen, setIsDropdownOpen] = useState(false);
     const [open, setOpen] = useState(false);
-
+    console.log(isDropdownOpen)
     const [hasScrolled, setHasScrolled] = useState(false);
 
     useEffect(() => {
