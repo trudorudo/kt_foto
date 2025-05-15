@@ -8,7 +8,7 @@ const MainSection = () => {
         <>
             <img src={photo1} alt="1" className="w-full  object-cover" />
             <div className='-mt-20 md:-mt-60 text-white ml-2 md:ml-8 mb-2'>
-                <div className="baijamjureelight text-6xl md:text-[170px] md:leading-[220px] fade-up">
+                <div className="baijamjureelight text-6xl md:text-[160px] md:leading-[220px] fade-up">
                     Kristina Trudorudo
                 </div>
                 <div className="intermed ml-2 -mt-4 leading-9 text-sm md:text-lg fade-up delay text-4xl md:text-2xl">
