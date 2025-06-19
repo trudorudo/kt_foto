@@ -60,12 +60,16 @@ import poto5 from "./assets/poetry_of_the_ordinary/poto5.jpg";
 import poto6 from "./assets/poetry_of_the_ordinary/poto6.jpg";
 import poto7 from "./assets/poetry_of_the_ordinary/poto7.jpg";
 
+import poto8 from "./assets/poetry_of_the_ordinary/poto8.jpeg";
+import poto9 from "./assets/poetry_of_the_ordinary/poto9.jpeg";
+import poto10 from "./assets/poetry_of_the_ordinary/poto10.jpeg";
+import poto11 from "./assets/poetry_of_the_ordinary/poto11.jpg";
+
 
 import p1 from "./assets/portraits/portrait00001.jpg";
 import p2 from "./assets/portraits/portrait00002.jpg";
 import p3 from "./assets/portraits/portrait00003.jpg";
 import p4 from "./assets/portraits/portrait00004.jpg";
-import p5 from "./assets/portraits/portrait00005.jpg";
 import p6 from "./assets/portraits/portrait00006.jpg";
 import p7 from "./assets/portraits/portrait00007.jpg";
 import p8 from "./assets/portraits/portrait00008.jpg";
@@ -118,7 +122,7 @@ const MainCompiler = () => {
                 counter="03"
                 description=""
                 img={p11}
-                img_array={[p1, p2, p3, p5, p6, p7, p8, p4, p9, p10, p11, p12, p13]}
+                img_array={[p1, p2, p3, p6, p7, p8, p4, p9, p10, p11, p12, p13, poto8, poto9, poto10, poto11]}
             />
             <ProjectSection
                 id="project5"
